@@ -1,0 +1,19 @@
+# Artefacts de tests et rapports
+*.zip
+test-reports/
+TestResults/
+*.trx
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Environnements Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# .NET
+bin/
+obj/
