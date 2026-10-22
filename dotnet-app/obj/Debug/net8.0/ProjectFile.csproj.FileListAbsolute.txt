@@ -1,0 +1,11 @@
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\bin\Debug\net8.0\ProjectFile.deps.json
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\bin\Debug\net8.0\ProjectFile.dll
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\bin\Debug\net8.0\ProjectFile.pdb
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.AssemblyInfoInputs.cache
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.AssemblyInfo.cs
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.csproj.CoreCompileInputs.cache
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.dll
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\refint\ProjectFile.dll
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ProjectFile.pdb
+C:\Users\skand\OneDrive\Desktop\DevOps-Labs\TP3-DevOps\dotnet-app\obj\Debug\net8.0\ref\ProjectFile.dll
