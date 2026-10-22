@@ -6,6 +6,6 @@ public class MathUtilsTests
     [TestMethod]
     public void TestFactorial5()
     {
-        Assert.AreEqual(0, MathUtils.Factorial(0));
+        Assert.AreEqual(1, MathUtils.Factorial(0));
     }
 }
