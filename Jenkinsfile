@@ -16,8 +16,8 @@ pipeline {
         stage('Run Python tests') {
             steps {
                 dir('python-app') {
-                    bat 'python -m pip install unittest-xml-reporting'
-                    bat 'python test_math_utils.py'
+                    bat '"C:\\Users\\skand\\AppData\\Local\\Programs\\Python\\Python311\\python.exe" -m pip install unittest-xml-reporting'
+                    bat '"C:\\Users\\skand\\AppData\\Local\\Programs\\Python\\Python311\\python.exe" test_math_utils.py'
                 }
             }
         }
